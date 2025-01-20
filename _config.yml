@@ -17,7 +17,7 @@ title: CSCI 2952-N
 tagline: Brown CSCI 2952N 
 description: Brown CSCI 2952N 
 author: Chen Sun
-baseurl: '/spring2023' # the subpath of your site, e.g. /blog
+baseurl: '/spring2025' # the subpath of your site, e.g. /blog
 url: 'https://brown-cs2952n.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -30,8 +30,8 @@ permalink: pretty
 aux_links:
   Chen Sun:
     - 'https://chensun.me/'
-  CSCI 1470/2470:
-    - 'https://cs.brown.edu/courses/info/csci1470/'
+  CSCI 2470:
+    - 'https://brown-deep-learning.github.io/csci2470_f24'
 footer_content:
 
 # Collections for website data
