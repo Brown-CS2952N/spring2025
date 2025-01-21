@@ -2,6 +2,8 @@
 title: Paper reading list and presenters
 ---
 
+**The schedule is work in progress.**
+
 Jan 31, Tue
 : [Course Overview](https://drive.google.com/file/d/17ykUcxQlraQLcQMIdlgUJMfBBF0ZieMN/view?usp=sharing) ([Slides](https://docs.google.com/presentation/d/1VSeMBMoJypRIVydBp8Q7DdAg_M1ZNinD/edit?usp=sharing&ouid=107174457905760692415&rtpof=true&sd=true))
   : Chen Sun

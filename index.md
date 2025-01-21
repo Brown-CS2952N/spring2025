@@ -15,12 +15,13 @@ seo:
 
 - Tuesday, Thursday 1:00-2:20 PM Eastern Time
 - Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chensun@brown.edu))
-- Office hour: 10:00 to 11:00am TThu, or by appointment
-- Classroom: CIT 241
+- Graduate TA: [Calvin Luo](https://calvinyluo.com/) ([calvin_luo@brown.edu](mailto:calvin_luo@brown.edu))
+- Office hour: 3:30 to 5:00 PM Tuesday, or by appointment
+- Classroom: CIT 477 (Lubrano)
 
 _In-class participation is **required** unless otherwise approved by the instructor._  
-_Zoom link can be found in the [course syllabus](https://docs.google.com/document/d/1YmK_T7jbBg1H8o_n9wkF2vvZRjDqUVYLD99pDT0ieFo/edit?usp=sharing)._  
-_Lectures will be livestreamed, and recorded for asynchronous viewing._
+
+_Lectures will be recorded for asynchronous viewing._
 
 ## About
 
@@ -38,15 +39,15 @@ Students are expected to feel comfortable reading 3-4 research papers per week (
 - 20% In-class presentation
 - 20% Paper reading and participation
 
-For details please refer to the [syllabus](https://docs.google.com/document/d/1YmK_T7jbBg1H8o_n9wkF2vvZRjDqUVYLD99pDT0ieFo/edit?usp=sharing).
+For details please refer to the [syllabus](https://docs.google.com/document/d/1MTB64IsXM_euPPTux2_o-ZOLuZl-JamaU3D1KJJRGbI/edit?usp=sharing).
 
 
 ## Resources
 
-- [Course syllabus](https://docs.google.com/document/d/1YmK_T7jbBg1H8o_n9wkF2vvZRjDqUVYLD99pDT0ieFo/edit?usp=sharing)
-- [Ed](https://edstem.org/us/courses/36397/discussion/)
-- [Presentation signup sheet](https://forms.gle/4CnTJGqKKx3vMWr89)
-- [Anonymous feedback form](https://forms.gle/bcipRod558MHg8i36)
+- [Course syllabus](https://docs.google.com/document/d/1MTB64IsXM_euPPTux2_o-ZOLuZl-JamaU3D1KJJRGbI/edit?usp=sharing)
+- [Ed](https://edstem.org/us/courses/74724/discussion)
+- [Presentation signup sheet]()
+- [Anonymous feedback form](https://forms.gle/2uQL85QrYG7M26Sy8)
 
 ## Academic Integrity & Collaboration Policy
 
