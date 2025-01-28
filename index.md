@@ -25,12 +25,27 @@ _Lectures will be recorded for asynchronous viewing._
 
 ## About
 
-WWelcome to CSCI 2952N! This course aims at preparing graduate-level students the research knowledge they need to apply Deep Learning techniques for their own research. Over the past few years, there has been tremendous success in developing unified neural architectures that achieve state-of-the-art performance on language understanding (GPT-3), visual perception (ViT), and even protein structure prediction (AlphaFold). We plan to understand how they work, and how the success of such unified models can give rise to further developments on self-supervised learning, a technique that trains machine learning models without requiring labeled data; and multimodal learning, a technique that utilizes multiple input sources, such as vision, audio, and text. We will also study recent attempts to interpret these models, thus revealing potential risks on model bias. The course is organized as a combination of paper reading, student presentations, and invited guest lectures. It also requires the students to work on a final project that explores a novel direction they choose along the line of the papers we cover.
+Welcome to CSCI 2952N! This course aims at preparing graduate-level students the research knowledge they need to apply Deep Learning techniques for their own research. Over the past few years, there has been tremendous success in developing unified neural architectures that achieve state-of-the-art performance on language understanding (GPT), visual perception (ViT), and even protein structure prediction (AlphaFold, 2024 Nobel Prize in Chemistry). The unified neural architecture design, when trained on huge amounts of data (the whole Internet!) on tens of thousands of GPUs, have given rise to ChatGPT, StableDiffusion, Genie, MusicGen, and Cosmos. Researchers and entrepreneurs are working hard to transfer the success into our daily lives, from intelligent agents, next-generation search engines, to healthcare and robotics.
+
+Our course aims to help students understand the basic building blocks that lead to the success of these advanced deep learning models, from the perspectives of mathematical tools that guide the high-level designs of the learning paradigms, to the nuanced but crucial details of neural architecture and data engineering. Towards the end of the seminar, we hope students will have their own answers about: (1) What gives rise to the success of the current “AI” systems, better models, bigger and higher-quality data, stronger hardwares, or a mixture of everything?; (2) Should you become an AI researcher? What are the interesting problems that are left unsolved?; (3) What the latest and upcoming AI models enable you to pursue your own career?
+
+The course is organized as a combination of instructor (and his students) led overview lectures, paper reading, student presentations, and invited guest lectures. It also requires the students to work on a final project that explores a novel direction they choose along the line of the papers we cover.
 
 ## Learning Goals
 
 This is a seminar course aimed for PhD students and students who would like to further pursue a career that utilizes deep learning either in academia or in industry.
+
 Students are expected to feel comfortable reading 3-4 research papers per week (6 to 8 hours). They are expected to propose a final group project idea with contributions sufficient for a premier Machine Learning Conference (e.g. NeurIPS, ICLR) **workshop or above**.  This class may be used for **capstone**.
+
+Students who complete this course will:
+
+- Be familiar with recent trends of deep learning techniques and explore their applications to your own research.
+- Develop skills for critically reading research papers, identifying their high-level insights and limitations.
+- Build in-depth knowledge in one or more areas of active research directions.
+- Understand the evolution of research ideas over time, how some prominent research directions withstand the test of time (or do not)
+- Obtain hands-on experience proposing and implementing a novel research idea.
+- Build up your own philosophy when encountered with tons of new papers on a daily basis, “hyped-up” new results advocated by the researchers themselves, and news coverage about “AI” in the popular media.
+- Leverage the tools and algorithms we covered for your own research.
 
 ## Grading
 
