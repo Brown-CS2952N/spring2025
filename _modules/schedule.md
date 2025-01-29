@@ -14,7 +14,7 @@ Jan 28, Tue
 
 Jan 30, Thu
 : [Deep Learning Recap]() ([Slides]())
-  : Chen Sun
+  : Chen
 
 
 Feb. 3, Mon
@@ -23,7 +23,7 @@ Feb. 3, Mon
 
 Feb. 4, Tue
 : [The Unreasonable Effectiveness of Data]() ([Slides]())
-  : Chen Sun
+  : Chen
 
 
 Feb. 6, Thu
@@ -31,3 +31,28 @@ Feb. 6, Thu
   : Students
 : 1. [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
   1. [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
+
+
+Feb. 11, Tue
+: [Few-shot and In-context Learning]() ([Reading survey]() / [Slides]())
+  : Students
+: 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
+  1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+
+
+Feb. 13, Thu
+: [Transformer and its variants]() ([Reading survey]() / [Slides]())
+  : Students
+: 1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
+  1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
+
+
+Feb. 20, Thu
+: [Flow Matching and Normalizing Flows]() ([Slides]())
+  : Calvin
+
+
+Feb. 20, Thu
+: **MP**{: .label .label-purple} [Mini Project]()
+  : Due on March 13
+: 1. [Example Handout from CSCI 2470](https://docs.google.com/document/d/1W9NaPHCK2dcaQlBD1ChHvdL-CnMZX3fRbBwMREYU2K0/edit?usp=sharing)
