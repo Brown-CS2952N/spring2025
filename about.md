@@ -43,7 +43,6 @@ Students who complete this course will:
 - Understand the evolution of research ideas over time, how some prominent research directions withstand the test of time (or do not)
 - Obtain hands-on experience proposing and implementing a novel research idea.
 - Build up your own philosophy when encountered with tons of new papers on a daily basis, “hyped-up” new results advocated by the researchers themselves, and news coverage about “AI” in the popular media.
-- Leverage the tools and algorithms we covered for your own research.
 
 ## Grading
 
