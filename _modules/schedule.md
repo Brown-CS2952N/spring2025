@@ -19,3 +19,15 @@ Jan 30, Thu
 
 Feb. 3, Mon
 : **Due**{: .label .label-purple} [Presentation signup sheet](https://forms.gle/pbXZrEyJebgr9zK78)
+
+
+Feb. 4, Tue
+: [The Unreasonable Effectiveness of Data]() ([Slides]())
+  : Chen Sun
+
+
+Feb. 6, Thu
+: [Self-supervised Learning and its Emerging Properties]() ([Reading survey]() / [Slides]())
+  : Students
+: 1. [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
+  1. [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
