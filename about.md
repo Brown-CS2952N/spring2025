@@ -21,6 +21,15 @@ _In-class participation is **required** unless otherwise approved by the instruc
 
 _Lectures will be recorded for asynchronous viewing._
 
+
+## Resources
+
+- [Course syllabus](https://docs.google.com/document/d/1MTB64IsXM_euPPTux2_o-ZOLuZl-JamaU3D1KJJRGbI/edit?usp=sharing)
+- [Ed](https://edstem.org/us/courses/74724/discussion)
+- [Presentation signup sheet]()
+- [Anonymous feedback form](https://forms.gle/2uQL85QrYG7M26Sy8)
+
+
 ## About
 
 Welcome to CSCI 2952N! This course aims at preparing graduate-level students the research knowledge they need to apply Deep Learning techniques for their own research. Over the past few years, there has been tremendous success in developing unified neural architectures that achieve state-of-the-art performance on language understanding (GPT), visual perception (ViT), and even protein structure prediction (AlphaFold, 2024 Nobel Prize in Chemistry). The unified neural architecture design, when trained on huge amounts of data (the whole Internet!) on tens of thousands of GPUs, have given rise to ChatGPT, [StableDiffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion), [Genie](https://sites.google.com/view/genie-2024/), [MusicGen](https://musicgen.com/), and [Cosmos](https://www.nvidia.com/en-us/ai/cosmos/). Researchers and entrepreneurs are working hard to transfer the success into our daily lives, from intelligent agents, next-generation search engines, to healthcare and robotics.
@@ -53,13 +62,6 @@ Students who complete this course will:
 
 For details please refer to the [syllabus](https://docs.google.com/document/d/1MTB64IsXM_euPPTux2_o-ZOLuZl-JamaU3D1KJJRGbI/edit?usp=sharing).
 
-
-## Resources
-
-- [Course syllabus](https://docs.google.com/document/d/1MTB64IsXM_euPPTux2_o-ZOLuZl-JamaU3D1KJJRGbI/edit?usp=sharing)
-- [Ed](https://edstem.org/us/courses/74724/discussion)
-- [Presentation signup sheet]()
-- [Anonymous feedback form](https://forms.gle/2uQL85QrYG7M26Sy8)
 
 ## Academic Integrity & Collaboration Policy
 
