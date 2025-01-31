@@ -14,7 +14,7 @@ Jan 28, Tue
 
 
 Jan 30, Thu
-: [Deep Learning Recap]() ([Slides](https://drive.google.com/file/d/101gFZOpujUeHwLPkvCNyd96UJri6hDom/view?usp=sharing))
+: [Deep Learning Recap](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7e4eb3e-8d5a-4e1d-96dd-b266011758e6) ([Slides](https://drive.google.com/file/d/101gFZOpujUeHwLPkvCNyd96UJri6hDom/view?usp=sharing))
   : Chen
 
 
