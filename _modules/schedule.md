@@ -29,7 +29,7 @@ Feb. 4, Tue
 
 Feb. 6, Thu
 : [Self-supervised Learning and its Emerging Properties]() ([Reading survey]() / [Slides]())
-  : Students
+  : Alex, Bumjin, Nuo Wen, Preetish
 : 1. [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
   1. [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
 
@@ -51,6 +51,8 @@ Feb. 13, Thu
 Feb. 20, Thu
 : [Flow Matching and Normalizing Flows]() ([Slides]())
   : Calvin
+: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
 
 
 Feb. 20, Thu
