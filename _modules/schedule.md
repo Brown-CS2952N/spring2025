@@ -23,7 +23,7 @@ Feb. 3, Mon
 
 
 Feb. 4, Tue
-: [Learning with Various (or "No") Supervision]() ([Slides](https://drive.google.com/file/d/1BoXhZmUYjJeYnnFDe8WdS5muEiZZfo12/view?usp=sharing))
+: [Learning with Various (or "No") Supervision](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12c63b99-00f3-4bc1-8bcc-b26601175914) ([Slides](https://drive.google.com/file/d/1BoXhZmUYjJeYnnFDe8WdS5muEiZZfo12/view?usp=sharing))
   : Chen
 
 
