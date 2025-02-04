@@ -28,7 +28,7 @@ Feb. 4, Tue
 
 
 Feb. 6, Thu
-: [Self-supervised Learning and its Emerging Properties]() ([Reading survey]() / [Slides]())
+: [Self-supervised Learning and its Emerging Properties]() ([Reading survey](https://docs.google.com/forms/d/e/1FAIpQLScxVDBilBEBE9Evt4Mv45HH9FAWe1eSJfRr1aTCYNyfSoRbFw/viewform?usp=sharing) / [Slides]())
   : Alex, Bumjin, Nuo Wen, Preetish
 : 1. [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
   1. [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
