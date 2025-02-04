@@ -23,7 +23,7 @@ Feb. 3, Mon
 
 
 Feb. 4, Tue
-: [The Unreasonable Effectiveness of Data]() ([Slides]())
+: [Learning with Various (or "No") Supervision]() ([Slides](https://drive.google.com/file/d/1BoXhZmUYjJeYnnFDe8WdS5muEiZZfo12/view?usp=sharing))
   : Chen
 
 
