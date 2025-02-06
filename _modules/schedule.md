@@ -28,7 +28,7 @@ Feb. 4, Tue
 
 
 Feb. 6, Thu
-: [Self-supervised Learning and its Emerging Abilities]() ([Reading survey](https://docs.google.com/forms/d/e/1FAIpQLScxVDBilBEBE9Evt4Mv45HH9FAWe1eSJfRr1aTCYNyfSoRbFw/viewform?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1BrTHVoW9BC_mlXk1mWa0hbB1qolOXrBy1pcucvHp1hg/edit?usp=sharing))
+: [Self-supervised Learning and its Emerging Abilities](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954f2b75-e558-4108-8ffc-b26601175937) ([Reading survey](https://docs.google.com/forms/d/e/1FAIpQLScxVDBilBEBE9Evt4Mv45HH9FAWe1eSJfRr1aTCYNyfSoRbFw/viewform?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1gASU4VMTicEt3o1Plr-MbyVnM9QDre8TTQxdZ2cHr6U/edit?usp=sharing) / [Questions](https://drive.google.com/file/d/1SA4srpsfm8XOrd2VA1naXBbFkyITijCs/view?usp=sharing))
   : Alex, Bumjin, Nuo Wen, Preetish
 : 1. [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
   1. [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
