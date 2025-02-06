@@ -36,14 +36,14 @@ Feb. 6, Thu
 
 Feb. 11, Tue
 : [Few-shot and In-context Learning]() ([Reading survey]() / [Slides]())
-  : Students
+  : Evani, John, Nathan, Taishi, Winston
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 
 
 Feb. 13, Thu
 : [Transformer and its variants]() ([Reading survey]() / [Slides]())
-  : Students
+  : Hayden, Nicholas, Oliver, Yik Siu
 : 1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
   1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
 
