@@ -35,7 +35,7 @@ Feb. 6, Thu
 
 
 Feb. 11, Tue
-: [Few-shot and In-context Learning]() ([Reading survey]() / [Slides]())
+: [Few-shot and In-context Learning]() ([Reading survey](https://forms.gle/V28xwwyC28g5qr2T7) / [Slides]())
   : Evani, John, Nathan, Taishi, Winston
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
