@@ -42,7 +42,7 @@ Feb. 11, Tue
 
 
 Feb. 13, Thu
-: [Transformer and its variants]() ([Reading survey]() / [Slides]())
+: [Transformer and its variants]() ([Reading survey](https://forms.gle/hNNzNpiwD6NhUmtj8) / [Slides]())
   : Hayden, Nicholas, Oliver, Yik Siu
 : 1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
   1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
