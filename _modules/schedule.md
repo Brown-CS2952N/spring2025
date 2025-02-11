@@ -35,7 +35,7 @@ Feb. 6, Thu
 
 
 Feb. 11, Tue
-: [Few-shot and In-context Learning]() ([Reading survey](https://forms.gle/V28xwwyC28g5qr2T7) / [Slides]())
+: [Few-shot and In-context Learning]() ([Reading survey](https://forms.gle/V28xwwyC28g5qr2T7) / [Slides](https://docs.google.com/presentation/d/1KGF3AXkgvHkE6EzuGLFwr8w2BjRiId9Km4MKefWAbvw/edit?usp=sharing))
   : Evani, John, Nathan, Taishi, Winston
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
@@ -57,5 +57,113 @@ Feb. 20, Thu
 
 Feb. 20, Thu
 : **MP**{: .label .label-purple} [Mini Project]()
-  : Due on March 13
+  : Due on March 18
 : 1. [Example Handout from CSCI 2470](https://docs.google.com/document/d/1W9NaPHCK2dcaQlBD1ChHvdL-CnMZX3fRbBwMREYU2K0/edit?usp=sharing)
+
+
+Feb. 25, Tue
+: [Controlling Generative Models]() ([Reading survey] / [Slides]())
+  : Jiayi, Shengmai, Shishi, Yiyang, Zhuoxuan
+: 1. [Adding Conditional Control to Text-to-Image Diffusion Models](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+
+
+Feb. 25, Tue
+: **FINAL**{: .label .label-purple} [Final Project Proposal]()
+  : Due on March 6
+: 1. [Example Final Projects from Spring 2023](https://docs.google.com/presentation/d/1aBnWRZvkMeLrAYfmgubpt2iRMyfeG91vnqhTf20oGuk/edit?usp=sharing)
+
+
+Feb. 27, Thu
+: [Video Generation Meets the Laws of Physics]() ([Reading survey] / [Slides]())
+  : Calvin
+: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+
+
+Mar. 4, Tue
+: [Representation Learning, Revisited]() ([Reading survey] / [Slides]())
+  : Calvin
+: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+
+
+Mar. 6, Thu
+: [Recent Advances on Multimodal LLMs]() ([Slides]())
+  : Zitian, Shijie
+
+
+Mar. 11, Tue
+: [Understanding vs. Generation]() ([Reading survey] / [Slides]())
+  : Calvin
+: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+
+
+Mar. 12, Wed
+: **FINAL**{: .label .label-purple} [One-slide Final Project Proposal]() ([Slides]())
+  : Due on March 12
+
+
+Mar. 13, Thu
+: [Final Project Proposal]() ([Slides]())
+  : All Students
+
+
+Mar. 18, Tue
+: **INVITED**{: .label .label-green} [Guest Lecture by Kaiming He]()
+
+
+Mar. 21, Fri
+: **INVITED**{: .label .label-green} [Invited Talk by Jiatao Gu]()
+
+
+Apr. 1, Tue
+: [Recent Advances on Reinforcement Learning]() ([Slides]())
+  : Calvin, Zilai
+
+
+Apr. 3, Thu
+: [World Models]() ([Reading survey] / [Slides]())
+  : Calvin
+: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+
+
+Apr. 8, Tue
+: [Robot Learning with Video Generative Models]() ([Reading survey] / [Slides]())
+  : Calvin
+: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+
+
+Apr. 11, Fri
+: **INVITED**{: .label .label-green} [Invited Talk by Jun-Yan Zhu]()
+
+
+Apr. 15, Tue
+: [RL for LLMs]() ([Reading survey] / [Slides]())
+  : Calvin
+: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+
+
+Apr. 17, Thu
+: [LLMs for Reasoning]() ([Slides]())
+  : Apoorv
+
+
+Apr. 22, Tue
+: [Agents]() ([Reading survey] / [Slides]())
+  : Calvin
+: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+
+
+Apr. 24, Tue
+: [From GPT to DeepSeek]() ([Reading survey] / [Slides]())
+  : Calvin
+: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
+  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+
+
