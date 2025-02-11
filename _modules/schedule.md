@@ -62,7 +62,7 @@ Feb. 20, Thu
 
 
 Feb. 25, Tue
-: [Controlling Generative Models]() ([Reading survey] / [Slides]())
+: [Controlling Generative Models]() ([Reading survey]() / [Slides]())
   : Jiayi, Shengmai, Shishi, Yiyang, Zhuoxuan
 : 1. [Adding Conditional Control to Text-to-Image Diffusion Models](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
   1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
@@ -75,17 +75,17 @@ Feb. 25, Tue
 
 
 Feb. 27, Thu
-: [Video Generation Meets the Laws of Physics]() ([Reading survey] / [Slides]())
-  : Calvin
-: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+: [Video Generation Meets the Laws of Physics]() ([Reading survey]() / [Slides]())
+  : Mindy, Heon, Gaurav, John, Tanish
+: 1. [PhysDiff: Physics-Guided Human Motion Diffusion Model](https://arxiv.org/abs/2212.02500)
+  1. [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964)
 
 
 Mar. 4, Tue
-: [Representation Learning, Revisited]() ([Reading survey] / [Slides]())
-  : Calvin
-: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+: [Representation Learning, Revisited]() ([Reading survey]() / [Slides]())
+  : Jiaqi, Ruiqi, Zihan, Kyle
+: 1. [Moving Off-the-Grid: Scene-Grounded Video Representations](https://arxiv.org/abs/2411.05927)
+  1. [Learning and Leveraging World Models in Visual Representation Learning](https://arxiv.org/abs/2403.00504)
 
 
 Mar. 6, Thu
@@ -94,10 +94,10 @@ Mar. 6, Thu
 
 
 Mar. 11, Tue
-: [Understanding vs. Generation]() ([Reading survey] / [Slides]())
-  : Calvin
-: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+: [Understanding vs. Generation]() ([Reading survey]() / [Slides]())
+  : Yiwen, Chen-En, Zhuoyang, Xilin
+: 1. [Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838)
+  1. [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
 
 
 Mar. 12, Wed
@@ -124,17 +124,17 @@ Apr. 1, Tue
 
 
 Apr. 3, Thu
-: [World Models]() ([Reading survey] / [Slides]())
-  : Calvin
-: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+: [World Models]() ([Reading survey]() / [Slides]())
+  : Noah, Praccho, Adam, Nicholas
+: 1. [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
+  1. [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
 
 
 Apr. 8, Tue
-: [Robot Learning with Video Generative Models]() ([Reading survey] / [Slides]())
-  : Calvin
-: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+: [Robot Learning with Video Generative Models]() ([Reading survey]() / [Slides]())
+  : Sami, Naicheng, Shangyang, Roger, Wanjia
+: 1. [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111)
+  1. [VideoAgent: Self-improving video generation](https://arxiv.org/abs/2410.10076)
 
 
 Apr. 11, Fri
@@ -142,10 +142,10 @@ Apr. 11, Fri
 
 
 Apr. 15, Tue
-: [RL for LLMs]() ([Reading survey] / [Slides]())
-  : Calvin
-: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+: [RL for LLMs]() ([Reading survey]() / [Slides]())
+  : Dan, Daniel, Jacob, Shane
+: 1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
+  1. [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 
 
 Apr. 17, Thu
@@ -154,16 +154,22 @@ Apr. 17, Thu
 
 
 Apr. 22, Tue
-: [Agents]() ([Reading survey] / [Slides]())
-  : Calvin
-: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+: [Agents]() ([Reading survey]() / [Slides]())
+  : Duo, Nikunj, Xiao, Yixiang
+: 1. [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+  1. [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
 
 Apr. 24, Tue
-: [From GPT to DeepSeek]() ([Reading survey] / [Slides]())
-  : Calvin
-: 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+: [From GPT to DeepSeek]() ([Reading survey]() / [Slides]())
+  : Yanshu, Ziqi, Bozheng, Hongwei
+: 1. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/abs/2006.16668)
+  1. [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
 
 
+May 9, Fri
+: [Final project presentations]() (Room TBD) ([Slides]())
+
+
+May 9, Fri
+: **Due**{: .label .label-purple} Project submission ([Form]())
