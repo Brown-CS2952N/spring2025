@@ -35,7 +35,7 @@ Feb. 6, Thu
 
 
 Feb. 11, Tue
-: [Few-shot and In-context Learning]() ([Reading survey](https://forms.gle/V28xwwyC28g5qr2T7) / [Slides](https://docs.google.com/presentation/d/1KGF3AXkgvHkE6EzuGLFwr8w2BjRiId9Km4MKefWAbvw/edit?usp=sharing))
+: [Few-shot and In-context Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb58eadd-c842-4968-b4f7-b2660117595a) ([Reading survey](https://forms.gle/V28xwwyC28g5qr2T7) / [Slides](https://docs.google.com/presentation/d/1zcviU3y3unBzcVHwVZNeysHTsrUjddF_U9EwbISY7NE/edit?usp=sharing) [Questions](https://drive.google.com/file/d/1h0E7U_x3Mw4GiZhlhLmTbgpk2DPiRmLS/view?usp=sharing))
   : Evani, John, Nathan, Taishi, Winston
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
