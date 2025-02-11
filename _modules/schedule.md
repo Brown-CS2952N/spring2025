@@ -168,7 +168,7 @@ Apr. 24, Tue
 
 
 May 9, Fri
-: [Final project presentations]() (Room TBD) ([Slides]())
+: [Final project presentations]() (Lubrano 1 to 4 pm) ([Slides]())
 
 
 May 9, Fri
