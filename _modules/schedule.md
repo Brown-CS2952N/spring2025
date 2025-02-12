@@ -162,7 +162,7 @@ Apr. 22, Tue
 
 Apr. 24, Tue
 : [From GPT to DeepSeek]() ([Reading survey]() / [Slides]())
-  : Yanshu, Ziqi, Bozheng, Hongwei
+  : Yanshu, Ziqi, Bozheng, Hongwei, Zhenke
 : 1. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/abs/2006.16668)
   1. [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
 
