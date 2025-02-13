@@ -35,14 +35,14 @@ Feb. 6, Thu
 
 
 Feb. 11, Tue
-: [Few-shot and In-context Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb58eadd-c842-4968-b4f7-b2660117595a) ([Reading survey](https://forms.gle/V28xwwyC28g5qr2T7) / [Slides](https://docs.google.com/presentation/d/1zcviU3y3unBzcVHwVZNeysHTsrUjddF_U9EwbISY7NE/edit?usp=sharing) [Questions](https://drive.google.com/file/d/1h0E7U_x3Mw4GiZhlhLmTbgpk2DPiRmLS/view?usp=sharing))
+: [Few-shot and In-context Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb58eadd-c842-4968-b4f7-b2660117595a) ([Reading survey](https://forms.gle/V28xwwyC28g5qr2T7) / [Slides](https://docs.google.com/presentation/d/1zcviU3y3unBzcVHwVZNeysHTsrUjddF_U9EwbISY7NE/edit?usp=sharing) / [Questions](https://drive.google.com/file/d/1h0E7U_x3Mw4GiZhlhLmTbgpk2DPiRmLS/view?usp=sharing))
   : Evani, John, Nathan, Taishi, Winston
 : 1. [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080)
   1. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 
 
 Feb. 13, Thu
-: [Transformer and its variants]() ([Reading survey](https://forms.gle/hNNzNpiwD6NhUmtj8) / [Slides](https://docs.google.com/presentation/d/1wBVvDLk6L_55HNvmGAJgo-pnRoIgIokbnHyXSdFydo0/edit?usp=sharing))
+: [Transformer and its variants](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=55439984-e009-4f90-a6c7-b26601175985) ([Reading survey](https://forms.gle/hNNzNpiwD6NhUmtj8) / [Slides](https://docs.google.com/presentation/d/1QH1id6OxiPOK7gyIDH7YIvwTjMg9g9TH3jPR1Zl8KYg/edit?usp=sharing) / [Questions](https://drive.google.com/file/d/1TJQvdr4FBCDB7tVeilf7Xs-gxCgSa4HA/view?usp=sharing))
   : Hayden, Nicholas, Oliver, Yik Siu
 : 1. [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
   1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)
