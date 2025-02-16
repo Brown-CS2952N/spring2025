@@ -65,7 +65,7 @@ Feb. 25, Tue
 : [Controlling Generative Models]() ([Reading survey]() / [Slides]())
   : Jiayi, Shengmai, Shishi, Yiyang, Zhuoxuan
 : 1. [Adding Conditional Control to Text-to-Image Diffusion Models](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
-  1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
+  1. [SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations](https://arxiv.org/abs/2108.01073)
 
 
 Feb. 25, Tue
