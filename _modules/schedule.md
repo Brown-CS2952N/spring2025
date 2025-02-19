@@ -49,7 +49,7 @@ Feb. 13, Thu
 
 
 Feb. 20, Thu
-: [Flow Matching and Normalizing Flows]() ([Slides]())
+: [Flow Matching and Normalizing Flows]() ([Slides](https://docs.google.com/presentation/d/1HimFgpsRfBvMTwV2IWosWaCosEvM5z-ciu7oEZwDivY/edit?usp=sharing))
   : Calvin
 : 1. [An Introduction to Flow Matching](https://mlg.eng.cam.ac.uk/blog/2024/01/20/flow-matching.html)
   1. [Diffusion Meets Flow Matching: Two Sides of the Same Coin](https://diffusionflow.github.io/)
