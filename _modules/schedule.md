@@ -56,9 +56,13 @@ Feb. 20, Thu
 
 
 Feb. 20, Thu
-: **MP**{: .label .label-purple} [Mini Project]()
+: **MP**{: .label .label-purple} [Mini Project](https://docs.google.com/document/d/18uRbEyq5lVyS_2FSemo95b6YQoLOcNTT3wjUFDSizzM/edit?usp=sharing)
   : Due on March 18
-: 1. [Example Handout from CSCI 2470](https://docs.google.com/document/d/1W9NaPHCK2dcaQlBD1ChHvdL-CnMZX3fRbBwMREYU2K0/edit?usp=sharing)
+: 1. [Mini Project Handout](https://docs.google.com/document/d/18uRbEyq5lVyS_2FSemo95b6YQoLOcNTT3wjUFDSizzM/edit?usp=sharing)
+  1. [Submission Form](https://forms.gle/Y1vH3PWyrFaR1EEn6)
+  1. [Diffusion Notebook](https://colab.research.google.com/drive/11qVNVWCdnw2l5keJFn5pNyGSQ9LtfalN?usp=sharing)
+  1. [Normalizing Flows Notebook](https://colab.research.google.com/drive/14yVgrDIgfkW-d1_0VxHrzquRA_t2fjBH?usp=sharing)
+  1. [Flow Matching Notebook](https://colab.research.google.com/drive/1p1BR1HjdwSwU60IhJ5aWj9_cRr_9QS0p?usp=sharing)
 
 
 Feb. 25, Tue
