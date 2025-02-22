@@ -79,7 +79,7 @@ Feb. 25, Tue
 
 
 Feb. 27, Thu
-: [Video Generation Meets the Laws of Physics]() ([Reading survey]() / [Slides]())
+: [Video Generation Meets the Laws of Physics]() ([Reading survey](https://forms.gle/EDt82YJ1ZRN51Lzc8) / [Slides]())
   : Mindy, Heon, Gaurav, John, Tanish
 : 1. [PhysDiff: Physics-Guided Human Motion Diffusion Model](https://arxiv.org/abs/2212.02500)
   1. [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964)
