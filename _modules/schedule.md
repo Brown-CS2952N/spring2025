@@ -73,9 +73,10 @@ Feb. 25, Tue
 
 
 Feb. 25, Tue
-: **FINAL**{: .label .label-purple} [Final Project Proposal]()
+: **FINAL**{: .label .label-purple} [Final Project Proposal](https://forms.gle/7JgKsp6Sq4HC8jTo9)
   : Due on March 6
-: 1. [Example Final Projects from Spring 2023](https://docs.google.com/presentation/d/1aBnWRZvkMeLrAYfmgubpt2iRMyfeG91vnqhTf20oGuk/edit?usp=sharing)
+: 1. [Proposal Form](https://forms.gle/7JgKsp6Sq4HC8jTo9)
+  1. [Example Final Projects from Spring 2023](https://docs.google.com/presentation/d/1aBnWRZvkMeLrAYfmgubpt2iRMyfeG91vnqhTf20oGuk/edit?usp=sharing)
 
 
 Feb. 27, Thu
