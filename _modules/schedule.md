@@ -80,7 +80,7 @@ Feb. 25, Tue
 
 
 Feb. 27, Thu
-: [Video Generation Meets the Laws of Physics]() ([Reading survey](https://forms.gle/EDt82YJ1ZRN51Lzc8) / [Slides](https://docs.google.com/presentation/d/1Hu9qYQpZy0UY_bT6Ted5lJmxvKl0P2-lFmCQe9wzbMc/edit?usp=sharing) / [Questions](https://drive.google.com/file/d/1n37n9l1Gi_lH3deWCzOkcQViYjvNSEW6/view?usp=sharing))
+: [Video Generation Meets the Laws of Physics](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71e03a08-3750-4284-8f0c-b26601175a21) ([Reading survey](https://forms.gle/EDt82YJ1ZRN51Lzc8) / [Slides](https://docs.google.com/presentation/d/1ZODtKf8qKt3QwXBvxTNxkWN4mB0W34pAY1v57fOl2X4/edit?usp=sharing) / [Questions](https://drive.google.com/file/d/1n37n9l1Gi_lH3deWCzOkcQViYjvNSEW6/view?usp=sharing))
   : Mindy, Heon, Gaurav, John, Tanish
 : 1. [PhysDiff: Physics-Guided Human Motion Diffusion Model](https://arxiv.org/abs/2212.02500)
   1. [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964)
@@ -94,15 +94,15 @@ Mar. 4, Tue
 
 
 Mar. 6, Thu
-: [Recent Advances on Multimodal LLMs]() ([Slides]())
-  : Zitian, Shijie
-
-
-Mar. 11, Tue
 : [Understanding vs. Generation]() ([Reading survey]() / [Slides]())
   : Yiwen, Chen-En, Zhuoyang, Xilin
 : 1. [Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838)
   1. [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
+
+
+Mar. 11, Tue
+: [Recent Advances on Multimodal LLMs]() ([Slides]())
+  : Zitian, Shijie
 
 
 Mar. 12, Wed
