@@ -87,14 +87,14 @@ Feb. 27, Thu
 
 
 Mar. 4, Tue
-: [Representation Learning, Revisited]() ([Reading survey]() / [Slides]())
+: [Representation Learning, Revisited]() ([Reading survey](https://forms.gle/XjN4JucVHzCYWS948) / [Slides]())
   : Jiaqi, Ruiqi, Zihan, Kyle
 : 1. [Moving Off-the-Grid: Scene-Grounded Video Representations](https://arxiv.org/abs/2411.05927)
   1. [Learning and Leveraging World Models in Visual Representation Learning](https://arxiv.org/abs/2403.00504)
 
 
 Mar. 6, Thu
-: [Understanding vs. Generation]() ([Reading survey]() / [Slides]())
+: [Autoregressive Strikes Back]() ([Reading survey]() / [Slides]())
   : Yiwen, Chen-En, Zhuoyang, Xilin
 : 1. [Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838)
   1. [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
