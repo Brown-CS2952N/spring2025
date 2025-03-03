@@ -94,7 +94,7 @@ Mar. 4, Tue
 
 
 Mar. 6, Thu
-: [Autoregressive Strikes Back]() ([Reading survey]() / [Slides]())
+: [Autoregressive Strikes Back]() ([Reading survey](https://forms.gle/xgpjisDysokjpKp97) / [Slides]())
   : Yiwen, Chen-En, Zhuoyang, Xilin
 : 1. [Autoregressive Image Generation without Vector Quantization](https://arxiv.org/abs/2406.11838)
   1. [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
