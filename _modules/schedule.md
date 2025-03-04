@@ -87,7 +87,7 @@ Feb. 27, Thu
 
 
 Mar. 4, Tue
-: [Representation Learning, Revisited]() ([Reading survey](https://forms.gle/XjN4JucVHzCYWS948) / [Slides]())
+: [Representation Learning, Revisited]() ([Reading survey](https://forms.gle/XjN4JucVHzCYWS948) / [Slides](https://docs.google.com/presentation/d/1XHtzbiwiUDrrIEnqtECIAHh5V4BgqdUpt0MpsUQtDZw/edit?usp=sharing) / [Questions](https://drive.google.com/file/d/1FafOprf-ksN9mqzspHzIOoebUNwoV1lr/view?usp=sharing))
   : Jiaqi, Ruiqi, Zihan, Kyle
 : 1. [Moving Off-the-Grid: Scene-Grounded Video Representations](https://arxiv.org/abs/2411.05927)
   1. [Learning and Leveraging World Models in Visual Representation Learning](https://arxiv.org/abs/2403.00504)
@@ -119,27 +119,30 @@ Mar. 18, Tue
 : **INVITED**{: .label .label-green} [Guest Lecture by Kaiming He]()
 
 
-Mar. 21, Fri
-: **INVITED**{: .label .label-green} [Invited Talk by Jiatao Gu]()
-
-
-Apr. 1, Tue
+Mar. 20, Thu
 : [Recent Advances on Reinforcement Learning]() ([Slides]())
   : Calvin, Zilai
 
 
-Apr. 3, Thu
+Apr. 1, Tue
 : [World Models]() ([Reading survey]() / [Slides]())
   : Noah, Praccho, Adam, Nicholas
 : 1. [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
   1. [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
 
 
-Apr. 8, Tue
+Apr. 3, Thu
 : [Robot Learning with Video Generative Models]() ([Reading survey]() / [Slides]())
   : Sami, Naicheng, Shangyang, Roger, Wanjia
 : 1. [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111)
   1. [Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114)
+
+
+Apr. 8, Tue
+: [RL for LLMs]() ([Reading survey]() / [Slides]())
+  : Dan, Daniel, Jacob, Shane
+: 1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
+  1. [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 
 
 Apr. 11, Fri
@@ -147,15 +150,12 @@ Apr. 11, Fri
 
 
 Apr. 15, Tue
-: [RL for LLMs]() ([Reading survey]() / [Slides]())
-  : Dan, Daniel, Jacob, Shane
-: 1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
-  1. [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
-
-
-Apr. 17, Thu
 : [LLMs for Reasoning]() ([Slides]())
   : Apoorv
+
+
+Apr. 18, Fri
+: **INVITED**{: .label .label-green} [Invited Talk by Jiatao Gu]()
 
 
 Apr. 22, Tue
