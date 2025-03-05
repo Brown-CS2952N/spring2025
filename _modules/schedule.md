@@ -87,7 +87,7 @@ Feb. 27, Thu
 
 
 Mar. 4, Tue
-: [Representation Learning, Revisited]() ([Reading survey](https://forms.gle/XjN4JucVHzCYWS948) / [Slides](https://docs.google.com/presentation/d/1XHtzbiwiUDrrIEnqtECIAHh5V4BgqdUpt0MpsUQtDZw/edit?usp=sharing) / [Questions](https://drive.google.com/file/d/1FafOprf-ksN9mqzspHzIOoebUNwoV1lr/view?usp=sharing))
+: [Representation Learning, Revisited](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=680a3456-92a7-45ff-a9e1-b26601175a3e) ([Reading survey](https://forms.gle/XjN4JucVHzCYWS948) / [Slides](https://docs.google.com/presentation/d/19aDGEWcDSEZWM9DWUB7rdNmUGvoAexP8Qm8lxpYmuYw/edit?usp=sharing) / [Questions](https://drive.google.com/file/d/1FafOprf-ksN9mqzspHzIOoebUNwoV1lr/view?usp=sharing))
   : Jiaqi, Ruiqi, Zihan, Kyle
 : 1. [Moving Off-the-Grid: Scene-Grounded Video Representations](https://arxiv.org/abs/2411.05927)
   1. [Learning and Leveraging World Models in Visual Representation Learning](https://arxiv.org/abs/2403.00504)
@@ -139,10 +139,8 @@ Apr. 3, Thu
 
 
 Apr. 8, Tue
-: [RL for LLMs]() ([Reading survey]() / [Slides]())
-  : Dan, Daniel, Jacob, Shane
-: 1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
-  1. [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+: [LLMs for Reasoning]() ([Slides]())
+  : Apoorv
 
 
 Apr. 11, Fri
@@ -150,8 +148,10 @@ Apr. 11, Fri
 
 
 Apr. 15, Tue
-: [LLMs for Reasoning]() ([Slides]())
-  : Apoorv
+: [RL for LLMs]() ([Reading survey]() / [Slides]())
+  : Dan, Daniel, Jacob, Shane
+: 1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
+  1. [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 
 
 Apr. 18, Fri
