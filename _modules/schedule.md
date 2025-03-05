@@ -111,8 +111,8 @@ Mar. 12, Wed
 
 
 Mar. 13, Thu
-: [Final Project Proposal]() ([Slides]())
-  : All Students
+: [Recent Advances on Reinforcement Learning]() ([Slides]())
+  : Calvin, Zilai
 
 
 Mar. 18, Tue
@@ -120,8 +120,8 @@ Mar. 18, Tue
 
 
 Mar. 20, Thu
-: [Recent Advances on Reinforcement Learning]() ([Slides]())
-  : Calvin, Zilai
+: [Final Project Proposal]() ([Slides]())
+  : All Students
 
 
 Apr. 1, Tue
