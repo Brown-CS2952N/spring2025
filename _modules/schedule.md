@@ -105,11 +105,6 @@ Mar. 11, Tue
   : Zitian, Shijie
 
 
-Mar. 12, Wed
-: **FINAL**{: .label .label-purple} [One-slide Final Project Proposal]() ([Slides]())
-  : Due on March 12
-
-
 Mar. 13, Thu
 : [Recent Advances on Reinforcement Learning]() ([Slides]())
   : Calvin, Zilai
@@ -117,6 +112,11 @@ Mar. 13, Thu
 
 Mar. 18, Tue
 : **INVITED**{: .label .label-green} [Guest Lecture by Kaiming He]()
+
+
+Mar. 19, Wed
+: **FINAL**{: .label .label-purple} [One-slide Final Project Proposal]() ([Slides](https://docs.google.com/presentation/d/1oehotQOCI0bwbeh1PsnsFhuqkeve_qUr7JSMm1Q1RCM/edit?usp=sharing))
+  : Due on March 19
 
 
 Mar. 20, Thu
