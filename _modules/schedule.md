@@ -101,7 +101,7 @@ Mar. 6, Thu
 
 
 Mar. 11, Tue
-: [Recent Advances on Multimodal LLMs]() ([Slides](https://drive.google.com/file/d/1_eM-d2uF5XxSZ-Ig-kLU5oVm95hzn7YH/view?usp=sharing))
+: [Recent Advances on Multimodal LLMs](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34414a1b-d56b-4afb-941a-b26601175a7d) ([Slides](https://drive.google.com/file/d/1_eM-d2uF5XxSZ-Ig-kLU5oVm95hzn7YH/view?usp=sharing))
   : Zitian, Shijie
 
 
