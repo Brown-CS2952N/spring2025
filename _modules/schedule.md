@@ -106,7 +106,7 @@ Mar. 11, Tue
 
 
 Mar. 13, Thu
-: [Recent Advances on Reinforcement Learning]() ([Slides](https://drive.google.com/file/d/1fKBtYmzv2Yhg0xZQVo-VF0AgIWi85jXZ/view?usp=sharing))
+: [Recent Advances on Reinforcement Learning](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=045a8fff-9c95-4e8d-91e0-b26601175a9f) ([Slides](https://drive.google.com/file/d/1fKBtYmzv2Yhg0xZQVo-VF0AgIWi85jXZ/view?usp=sharing))
   : Calvin, Zilai
 
 
