@@ -115,12 +115,12 @@ Mar. 18, Tue
 
 
 Mar. 19, Wed
-: **FINAL**{: .label .label-purple} [One-slide Final Project Proposal]() ([Slides](https://docs.google.com/presentation/d/1oehotQOCI0bwbeh1PsnsFhuqkeve_qUr7JSMm1Q1RCM/edit?usp=sharing))
+: **FINAL**{: .label .label-purple} [One-slide Final Project Proposal](https://docs.google.com/presentation/d/1oehotQOCI0bwbeh1PsnsFhuqkeve_qUr7JSMm1Q1RCM/edit?usp=sharing)
   : Due on March 19
 
 
 Mar. 20, Thu
-: [Final Project Proposal]() ([Slides]())
+: [Final Project Proposal]() ([Slides](https://docs.google.com/presentation/d/1oehotQOCI0bwbeh1PsnsFhuqkeve_qUr7JSMm1Q1RCM/edit?usp=sharing))
   : All Students
 
 
