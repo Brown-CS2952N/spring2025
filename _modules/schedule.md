@@ -111,7 +111,7 @@ Mar. 13, Thu
 
 
 Mar. 18, Tue
-: **INVITED**{: .label .label-green} [Guest Lecture by Kaiming He]()
+: **INVITED**{: .label .label-green} [Guest Lecture by Kaiming He](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fc8b8a1b-7ca6-43b3-b4cc-b26601175abe)
 
 
 Mar. 19, Wed
