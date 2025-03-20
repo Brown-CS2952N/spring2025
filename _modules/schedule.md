@@ -120,7 +120,7 @@ Mar. 19, Wed
 
 
 Mar. 20, Thu
-: [Final Project Proposal]() ([Slides](https://docs.google.com/presentation/d/1oehotQOCI0bwbeh1PsnsFhuqkeve_qUr7JSMm1Q1RCM/edit?usp=sharing))
+: [Final Project Proposal](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d5d58886-9fbd-4b5e-8ef8-b26601175ade) ([Slides](https://docs.google.com/presentation/d/1oehotQOCI0bwbeh1PsnsFhuqkeve_qUr7JSMm1Q1RCM/edit?usp=sharing))
   : All Students
 
 
