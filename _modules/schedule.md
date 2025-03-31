@@ -132,7 +132,7 @@ Apr. 1, Tue
 
 
 Apr. 3, Thu
-: [Robot Learning with Video Generative Models]() ([Reading survey]() / [Slides]())
+: [Robot Learning with Video Generative Models]() ([Reading survey](https://forms.gle/3wbcHpavwDo4ANEk8) / [Slides]())
   : Sami, Naicheng, Shangyang, Roger, Wanjia
 : 1. [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111)
   1. [Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114)
