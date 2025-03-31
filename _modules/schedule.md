@@ -125,7 +125,7 @@ Mar. 20, Thu
 
 
 Apr. 1, Tue
-: [World Models]() ([Reading survey]() / [Slides]())
+: [World Models]() ([Reading survey](https://forms.gle/ZYtPZG93iHdeXNes5) / [Slides]())
   : Noah, Praccho, Adam, Nicholas
 : 1. [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
   1. [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
