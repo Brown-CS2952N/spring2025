@@ -125,14 +125,14 @@ Mar. 20, Thu
 
 
 Apr. 1, Tue
-: [World Models]() ([Reading survey](https://forms.gle/ZYtPZG93iHdeXNes5) / [Slides]())
+: [World Models](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4278a00-6a52-42d6-9fd3-b26601175b47) ([Reading survey](https://forms.gle/ZYtPZG93iHdeXNes5) / [Slides](https://docs.google.com/presentation/d/101awXVUlQNRdny2wc81hQn9FfDrD9NDzzqW9HgoNB6M/edit?usp=sharing))
   : Noah, Praccho, Adam, Nicholas
 : 1. [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
   1. [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
 
 
 Apr. 3, Thu
-: [Robot Learning with Video Generative Models]() ([Reading survey](https://forms.gle/3wbcHpavwDo4ANEk8) / [Slides]())
+: [Robot Learning with Video Generative Models]() ([Reading survey](https://forms.gle/3wbcHpavwDo4ANEk8) / [Slides](https://docs.google.com/presentation/d/1dHxKQwsDLk5R4GMB633mcp3LgSSDnxW-2VyCg-6LQCY/edit?usp=sharing))
   : Sami, Naicheng, Shangyang, Roger, Wanjia
 : 1. [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111)
   1. [Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114)
