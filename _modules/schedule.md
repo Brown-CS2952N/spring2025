@@ -132,7 +132,7 @@ Apr. 1, Tue
 
 
 Apr. 3, Thu
-: [Robot Learning with Video Generative Models]() ([Reading survey](https://forms.gle/3wbcHpavwDo4ANEk8) / [Slides](https://docs.google.com/presentation/d/1dHxKQwsDLk5R4GMB633mcp3LgSSDnxW-2VyCg-6LQCY/edit?usp=sharing))
+: [Robot Learning with Video Generative Models](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d97df8f-6ae2-4d33-9fce-b26601175b6a) ([Reading survey](https://forms.gle/3wbcHpavwDo4ANEk8) / [Slides](https://docs.google.com/presentation/d/1iC7YJUDGWF4v4OW7CTrBNgDhmGcwBvVRMlmmOWbZSls/edit?usp=sharing))
   : Sami, Naicheng, Shangyang, Roger, Wanjia
 : 1. [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111)
   1. [Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114)
@@ -141,6 +141,13 @@ Apr. 3, Thu
 Apr. 8, Tue
 : [LLMs for Reasoning]() ([Slides]())
   : Apoorv
+
+
+Apr. 10, Thu
+: [Agents]() ([Reading survey]() / [Slides]())
+  : Duo, Nikunj, Yixiang
+: 1. [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+  1. [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
 
 Apr. 11, Fri
@@ -154,22 +161,15 @@ Apr. 15, Tue
   1. [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 
 
-Apr. 18, Fri
-: **INVITED**{: .label .label-green} [Invited Talk by Jiatao Gu]()
-
-
-Apr. 22, Tue
-: [Agents]() ([Reading survey]() / [Slides]())
-  : Duo, Nikunj, Yixiang
-: 1. [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
-  1. [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
-
-
-Apr. 24, Tue
+Apr. 17, Thu
 : [From GPT to DeepSeek]() ([Reading survey]() / [Slides]())
   : Yanshu, Ziqi, Bozheng, Hongwei, Zhenke
 : 1. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/abs/2006.16668)
   1. [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
+
+
+Apr. 18, Fri
+: **INVITED**{: .label .label-green} [Invited Talk by Jiatao Gu]()
 
 
 May 9, Fri
