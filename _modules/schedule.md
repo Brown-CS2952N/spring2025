@@ -144,7 +144,7 @@ Apr. 8, Tue
 
 
 Apr. 10, Thu
-: [Agents]() ([Reading survey]() / [Slides]())
+: [Agents]() ([Reading survey](https://forms.gle/J3vPMdnKfVm7Bckz8) / [Slides]())
   : Duo, Nikunj, Yixiang
 : 1. [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
   1. [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
