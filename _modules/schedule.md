@@ -139,7 +139,7 @@ Apr. 3, Thu
 
 
 Apr. 8, Tue
-: [LLMs for Reasoning]() ([Slides]())
+: [LLMs for Reasoning]() ([Slides](https://docs.google.com/presentation/d/1ciOgRGv14Jnr1pv26Uc-PKiL921DQsfoS6PWlxb5sqw/edit?usp=sharing))
   : Apoorv
 
 
