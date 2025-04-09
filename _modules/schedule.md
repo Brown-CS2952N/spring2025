@@ -155,14 +155,14 @@ Apr. 11, Fri
 
 
 Apr. 15, Tue
-: [RL for LLMs]() ([Reading survey]() / [Slides]())
+: [RL for LLMs]() ([Reading survey](https://forms.gle/aVMz7UnvijiFXrzP8) / [Slides]())
   : Dan, Daniel, Jacob, Shane
 : 1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
   1. [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
 
 
 Apr. 17, Thu
-: [From GPT to DeepSeek]() ([Reading survey]() / [Slides]())
+: [From GPT to DeepSeek]() ([Reading survey](https://forms.gle/ASGHmfNTHB3UB8by6) / [Slides]())
   : Yanshu, Ziqi, Bozheng, Hongwei, Zhenke
 : 1. [GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding](https://arxiv.org/abs/2006.16668)
   1. [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
