@@ -168,9 +168,6 @@ Apr. 17, Thu
   1. [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
 
 
-Apr. 18, Fri
-: **INVITED**{: .label .label-green} [Invited Talk by Jiatao Gu]()
-
 
 May 9, Fri
 : [Final project presentations]() (Lubrano 1 to 4 pm) ([Slides]())
