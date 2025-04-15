@@ -155,7 +155,7 @@ Apr. 11, Fri
 
 
 Apr. 15, Tue
-: [RL for LLMs]() ([Reading survey](https://forms.gle/aVMz7UnvijiFXrzP8) / [Slides]())
+: [RL for LLMs]() ([Reading survey](https://forms.gle/aVMz7UnvijiFXrzP8) / [Slides](https://drive.google.com/file/d/16erugb2gAncvqgg6zM2IJ4QowB9-EdiO/view?usp=sharing))
   : Dan, Daniel, Jacob, Shane
 : 1. [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
   1. [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
