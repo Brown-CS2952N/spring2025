@@ -170,8 +170,8 @@ Apr. 17, Thu
 
 
 May 9, Fri
-: [Final project presentations]() (Lubrano 1 to 4 pm) ([Slides]())
+: [Final project presentations]() (Lubrano 1 to 4 pm) ([Slides](https://docs.google.com/presentation/d/1iUDzrRvEnMwEik7lQMCHDcfPLCt5sQ6f_2u2MBay1Vs/edit?usp=sharing))
 
 
-May 9, Fri
-: **Due**{: .label .label-purple} Project submission ([Form]())
+May 12, Fri
+: **Due**{: .label .label-purple} Project submission ([Form](https://forms.gle/JciZXEFeJgLoMGso6))
