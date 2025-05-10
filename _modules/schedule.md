@@ -170,7 +170,7 @@ Apr. 17, Thu
 
 
 May 9, Fri
-: [Final project presentations]() (Lubrano 1 to 4 pm) ([Slides](https://docs.google.com/presentation/d/1iUDzrRvEnMwEik7lQMCHDcfPLCt5sQ6f_2u2MBay1Vs/edit?usp=sharing))
+: [Final project presentations](https://drive.google.com/file/d/1CvwbJMBJeG90kCW28ZVdNvh0GZqbV9YO/view?usp=sharing) (Lubrano 1 to 4 pm) ([Slides](https://docs.google.com/presentation/d/1iUDzrRvEnMwEik7lQMCHDcfPLCt5sQ6f_2u2MBay1Vs/edit?usp=sharing))
 
 
 May 12, Fri
